@@ -1,0 +1,11 @@
+{
+  "name": "heroku-ludjan",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
